@@ -7,3 +7,6 @@
 
 ## 인프라 아키텍처
 ![제목](etc/images/infra.png)
+
+## CI/CD 파이프라인
+![제목](etc/images/CICD.png)
